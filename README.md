@@ -132,18 +132,3 @@ const yuvraj = {
   <h3>💫 "Code is poetry written in logic" 💫</h3>
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-<style>
-/* Custom CSS for enhanced aesthetics */
-.highlight {
-  background: linear-gradient(45deg, #667eea 0%, #764ba2 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  font-weight: bold;
-}
-
-.glow {
-  text-shadow: 0 0 10px #00D9FF;
-}
-</style>
