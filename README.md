@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yuvraj+Singh+Rathore+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Yuvraj+Singh+Rathore+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -101,7 +101,7 @@ const yuvraj = {
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvrajSinghRathore&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvvrajSingh&repo=sql-gpt&theme=tokyonight&hide_border=true" alt="Project 1"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvrajSinghRathore&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/></a>
 </div>
 
