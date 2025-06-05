@@ -114,8 +114,8 @@ const yuvraj = {
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvrajSinghRathore&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvrajSinghRathore&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvvrajSingh&repo=sql-gpt&theme=tokyonight&hide_border=true" alt="Project 1"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvvrajSingh&repo=miss-minutes&theme=tokyonight&hide_border=true" alt="Project 2"/></a>
 </div>
 
 <h2 align="center">📫 Let's Connect</h2>
