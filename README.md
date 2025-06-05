@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Yuvraj+Singh+Rathore+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yuvraj+Singh+Rathore+%F0%9F%91%8B;Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,11 +13,11 @@
 ```typescript
 const yuvraj = {
   name: "Yuvraj Singh Rathore",
-  title: "Full Stack Developer",
+  title: "Full Stack Developer & AI/ML Engineer",
   location: "India 🇮🇳",
-  focus: ["Web Development", "Problem Solving", "Clean Code"],
+  focus: ["Web Development", "Machine Learning", "AI", "Problem Solving", "Clean Code"],
   motto: "Code with passion, debug with patience",
-  currentlyLearning: ["Advanced React Patterns", "System Design", "DevOps"],
+  currentlyLearning: ["Advanced React Patterns", "System Design", "DevOps", "Deep Learning", "MLOps"],
   funFact: "I debug faster than I write code sometimes 🐛",
 };
 ```
@@ -49,6 +49,19 @@ const yuvraj = {
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+
+### AI/ML & Data Science
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
 
 ### Database
 
@@ -88,11 +101,11 @@ const yuvraj = {
 
 ```css
 .current-focus {
-  building: "Scalable web applications";
-  learning: "Advanced system design patterns";
-  exploring: "AI/ML integration in web apps";
-  contributing: "Open source projects";
-  reading: "Clean Architecture & Design Patterns";
+  building: "Scalable web applications & ML models";
+  learning: "Advanced system design patterns & Deep Learning";
+  exploring: "AI/ML integration in web apps & Computer Vision";
+  contributing: "Open source ML projects";
+  reading: "Clean Architecture, Design Patterns & ML Engineering";
 }
 ```
 
@@ -101,8 +114,8 @@ const yuvraj = {
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvvrajSingh&repo=sql-gpt&theme=tokyonight&hide_border=true" alt="Project 1"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvvrajSingh&repo=miss-minutes&theme=tokyonight&hide_border=true" alt="Project 2"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvrajSinghRathore&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuvrajSinghRathore&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/></a>
 </div>
 
 <h2 align="center">📫 Let's Connect</h2>
